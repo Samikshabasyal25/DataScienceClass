@@ -1,0 +1,13 @@
+ID,Name,Age,Gender,City,Marks,Email,Join_Date
+1,Ram,21.0,M,Kathmandu,21.0,ram@gmail.com,2025-01-10
+2,Sita,22.0,F,Pokhara,22.0,sita@gmail.com,2025-01-12
+3,Hari,20.0,M,Kathmandu,20.0,hari@gmail.com,2025-01-15
+4,Gita,21.666666666666668,F,Lalitpur,21.666666666666668,gita@gmail.com,2025-01-18
+6,Anil,19.0,M,Butwal,19.0,anilgmail.com,2025-02-01
+7,Suman,23.0,F,Pokhara,23.0,suman@gmail.com,2025-02-05
+8,Prabin,22.0,M,Butwal,22.0,prabin@gmail.com,2025-02-10
+9,Nisha,21.666666666666668,F,Kathmandu,21.666666666666668,nisha@gmail.com,2025-02-12
+10,Bikash,24.0,M,Kathmandu,24.0,bikash@gmail.com,2025-02-15
+11,Asha,21.0,F,Pokhara,21.0,asha@gmail.com,2025-02-18
+12,Ramesh,21.666666666666668,M,Lalitpur,21.666666666666668,ramesh@gmail.com,2025-02-20
+14,Kiran,20.0,M,Kathmandu,20.0,kiran@gmail.com,2025-03-01
